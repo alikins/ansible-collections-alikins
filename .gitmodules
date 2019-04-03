@@ -1,0 +1,9 @@
+[submodule "collection_reqs_test"]
+	path = collection_reqs_test
+	url = git@github.com:alikins/collection_reqs_test.git
+[submodule "collection_ntp"]
+	path = collection_ntp
+	url = git@github.com:alikins/collection_ntp.git
+[submodule "collection_inspect"]
+	path = collection_inspect
+	url = git@github.com:alikins/collection_inspect.git
